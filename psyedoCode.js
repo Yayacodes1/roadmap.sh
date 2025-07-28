@@ -5,7 +5,7 @@ const path = require('path');
 // want to access
 const tasksFile = path.join(__dirname, 'tasks.json');
 //dirname is the absoulte path of the current script 
-// and it a json file is added to it when the script 
+// and  it a json file is added to it when the script 
 // runs and they are both saved under tasksFile
 
 if(!fs.existsSync(tasksFile)){
