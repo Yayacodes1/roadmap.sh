@@ -18,10 +18,7 @@ npm start
 Contributing
 Pull requests welcome!
 
-text
 
-### **4. Final Repository URL**
-Your submission URL will be:
 https://github.com/Yayacodes1/roadmap.sh
 
 
