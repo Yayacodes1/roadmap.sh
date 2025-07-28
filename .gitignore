@@ -1,0 +1,6 @@
+# Example .gitignore for a web project
+node_modules/
+cache/
+.DS_Store
+.env
+dist/
